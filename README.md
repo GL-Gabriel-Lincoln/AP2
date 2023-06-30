@@ -1,2 +1,2 @@
 # AP2
-ALGORITMOS E PROGRAMAÇÃO II
+Atividades de Algoritmos e Programação II
